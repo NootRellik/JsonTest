@@ -1,0 +1,39 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "firstname": "Fer",
+      "Surname": "Villa",
+      "PlayerDesc": "Jugador VR",
+      "MaxGold": "523",
+      "Team": "Red"
+    }
+    ,
+    {
+      "UserId": "1",
+      "firstname": "Kary",
+      "Surname": "Chacon",
+      "PlayerDesc": "Jugador apex",
+      "MaxGold": "234",
+      "Team": "Green"
+    }
+    ,
+    {
+      "UserId": "2",
+      "firstname": "Robert",
+      "Surname": "Hernandez",
+      "PlayerDesc": "Jugador LOL",
+      "MaxGold": "775",
+      "Team": "Blue"
+    }
+    ,
+    {
+      "UserId": "3",
+      "firstname": "Jesus",
+      "Surname": "Chacon",
+      "PlayerDesc": "Jugador Halo",
+      "MaxGold": "435",
+      "Team": "Red"
+    } 
+  ]
+}
