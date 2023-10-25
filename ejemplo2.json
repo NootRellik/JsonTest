@@ -35,5 +35,14 @@
       "MaxGold": "435",
       "Team": "Red"
     } 
+     ,
+    {
+      "UserId": "4",
+      "firstname": "Alejandro",
+      "Surname": "Garcia",
+      "PlayerDesc": "Jugador Dota",
+      "MaxGold": "543",
+      "Team": "Blue"
+    } 
   ]
 }
